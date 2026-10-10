@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,60:3d4d00,100:C8FF00&height=170&section=header&text=Javier%20Rueda&fontColor=EFEFEF&fontSize=48&fontAlignY=34&desc=JarcOnline&descSize=18&descAlignY=54" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,60:3d4d00,100:C8FF00&height=130&section=header" alt="" />
+
+# Javier Rueda
+
+**JarcOnline**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=700&color=C8FF00&center=true&vCenter=true&width=680&height=50&lines=Desarrollador+web;Tiendas+en+l%C3%ADnea+que+venden+solas;Creador+de+contenido+tech;Programo+lo+que+despu%C3%A9s+ense%C3%B1o" alt="Desarrollador web y creador de contenido tech" />
 
