@@ -26,7 +26,7 @@ Construyo **tiendas en línea**: catálogo, pago automático, despachos y un pan
 También hago sitios a la medida cuando el negocio necesita algo que una tienda estándar no resuelve.
 
 - 🛒 **Tiendas en línea** con pasarela de pago y administración propia
-- 🧩 Construyo con **Next.js, Astro, JavaScript, HTML y CSS**, y automatizo con **Python**
+- 🧩 Construyo con **Next.js, TypeScript, Astro, JavaScript, HTML y CSS**, y automatizo con **Python**
 - 🌎 Trabajo **100% remoto**, en el huso horario que haga falta
 - 💬 ¿Tienes un proyecto? [Cuéntamelo acá](https://jarconline.com/servicios.html)
 
@@ -36,9 +36,8 @@ También hago sitios a la medida cuando el negocio necesita algo que una tienda 
 
 | Proyecto | Qué es | Hecho con |
 |---|---|---|
-| **[ÉLISSE](https://elisse.com.co)** | Tienda en línea propia: catálogo, pago automático, despachos y panel de administración | Next.js · Sanity · Supabase · Wompi |
-| **[LUAR JOYAS](https://github.com/luarjoyas25/Proyecto-LUAR-JOYAS)** | Catálogo de alta joyería con consulta directa por WhatsApp | HTML · CSS · JS |
-| **[JarcOnline](https://jarconline.com)** | Mi sitio: servicios, portafolio y recursos gratis | HTML · CSS · JS · Netlify |
+| **[ÉLISSE](https://elisse.com.co)** | Tienda en línea de belleza y cuidado de la piel: pago con tarjeta, PSE y Nequi, inventario automático y panel de administración propio | Next.js · TypeScript · Sanity · Supabase · Wompi |
+| **[GCP Gorras](https://gcpgorras.com)** | Fábrica de gorras publicitarias: personalizador de producto, línea premium R Caps y cotización por WhatsApp | HTML · CSS · JavaScript |
 
 ---
 
@@ -64,6 +63,7 @@ De ahí salieron estos dos plugins para DaVinci Resolve. Nacieron de un problema
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=C8FF00)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=C8FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=C8FF00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=C8FF00)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=C8FF00)
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=C8FF00)
 ![Astro](https://img.shields.io/badge/Astro-0A0A0A?style=flat-square&logo=astro&logoColor=C8FF00)
